@@ -78,3 +78,20 @@ top-0      → stick to top
 bottom-0   → stick to bottom
 left-0     → stick to left
 right-0    → stick to right
+
+2. flex
+➡️ Ye element ko Flexbox container bana deta hai.
+Flexbox ek layout system hai jo easily content ko row/column me arrange aur center kar deta h
+
+1. min-h-screen
+
+➡️ Ye ensure karta hai ke <body> (ya jo bhi element hai) ki minimum height poori screen (100vh) ho.
+Matlab agar content kam bhi ho, to bhi element poori screen ki height lega.
+Isse fayda: center alignment properly kaam karti hai (warna chhoti height wale element ko center karna mushkil hota).
+
+
+
+
+
+
+
