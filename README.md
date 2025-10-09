@@ -6,6 +6,12 @@ bg-blue-500   → background blue
 text-red-600  → red text
 border-green-400 → green border
 
+left right and top bottom gap
+px-10 👉 left & right gap
+py-4 👉 top & bottom gap
+p-4 👉 all sides gap
+
+
 
 👉 Pattern: bg-{color}-{shade}, text-{color}-{shade}, border-{color}-{shade}
 Shades go from 50 (lightest) → 900 (darkest).
