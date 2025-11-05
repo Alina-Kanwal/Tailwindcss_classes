@@ -95,6 +95,12 @@ Flexbox ek layout system hai jo easily content ko row/column me arrange aur cent
 Matlab agar content kam bhi ho, to bhi element poori screen ki height lega.
 Isse fayda: center alignment properly kaam karti hai (warna chhoti height wale element ko center karna mushkil hota).
 
+absolute ka kaam hota hai —
+element ko normal layout se nikal kar screen (ya parent) ke andar exact position par rakhna.
+
+🧠 Matlab:
+tum absolute use karke top, right, bottom, left se uska exact jagah control karti ho.
+
 
 
 
