@@ -101,6 +101,14 @@ element ko normal layout se nikal kar screen (ya parent) ke andar exact position
 🧠 Matlab:
 tum absolute use karke top, right, bottom, left se uska exact jagah control karti ho.
 
+RESPONSIVE NAVEBAR PROPERTIES 
+1. w-full / md:w-auto
+Mobile me full width menu, desktop me content width jitni.
+Responsive width adjust karta hai.
+
+➡️ Absolute
+Agar child element me absolute use karna hai, to parent element me relative likhna zaruri hai, taki child parent ke respect me position ho.
+
 
 
 
