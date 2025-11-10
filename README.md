@@ -108,6 +108,7 @@ Responsive width adjust karta hai.
 
 ➡️ Absolute
 Agar child element me absolute use karna hai, to parent element me relative likhna zaruri hai, taki child parent ke respect me position ho.
+yani use um let-7 ya kesi b position ka pat dekar usky parent div my rehty hoye given path par phucha sken
 
 
 
