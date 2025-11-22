@@ -108,7 +108,23 @@ Responsive width adjust karta hai.
 
 ➡️ Absolute
 Agar child element me absolute use karna hai, to parent element me relative likhna zaruri hai, taki child parent ke respect me position ho.
-yani use um let-7 ya kesi b position ka pat dekar usky parent div my rehty hoye given path par phucha sken
+yani use um let-7 ya kesi b position ka pat dekar usky parent div my rehty hoye given path par phucha sken.
+
+📦 Tailwind Breakpoints (Simple Box Explanation)
+-------------------------------------------------------
+| Breakpoint | Width (px)    | Kis devices ke liye?   |
+-------------------------------------------------------
+|   sm       |   ≥ 640px     | Chote tablets, large phones
+-------------------------------------------------------
+|   md       |   ≥ 768px     | Tablets, chote laptops (old)
+-------------------------------------------------------
+|   lg       |   ≥ 1024px    | Normal laptops (Windows 10)
+-------------------------------------------------------
+|   xl       |   ≥ 1280px    | Barray laptops, HD screens
+-------------------------------------------------------
+|   2xl      |   ≥ 1536px    | Large monitors, wide screens
+-------------------------------------------------------
+
 
 
 
